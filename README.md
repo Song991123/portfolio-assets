@@ -6,5 +6,6 @@ Public media used by Song Junghyun's Notion and GitHub portfolio pages.
 
 - `profile.png`: profile photo
 - `bubli-overview.png`: Bubli project overview
+- `keeper-field-app.png`: anonymized source reconstruction of a 2020 mobile field-support app
 
 Project-specific screenshots remain in their original project repositories.
