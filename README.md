@@ -1,13 +1,11 @@
 # Portfolio Assets
 
-Public media used by Song Junghyun's Notion and GitHub portfolio pages.
+Stable project previews used by Song Junghyun's Notion portfolio gallery.
 
 ## Files
 
-- `profile.png`: profile photo
-- `portfolio-cover-v2.png`: text-free panoramic portfolio cover
-- `skills-board.png`: categorized technology icon board
-- `bubli-overview.png`: Bubli project overview
-- `keeper-field-app.png`: anonymized source reconstruction of a 2020 mobile field-support app
+- `projects/bubli-product.png`: verified Bubli product screen
+- `projects/msmote-demo.png`: verified MSmote PC/mobile demonstration
+- `projects/keeper-field-app.png`: anonymized reconstruction based on the archived 2020 source and UI
 
-Project-specific screenshots remain in their original project repositories.
+Detailed evidence is stored directly in Notion. Other screenshots remain in their original project repositories.
