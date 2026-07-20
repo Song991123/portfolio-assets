@@ -4,8 +4,10 @@ Stable project previews used by Song Junghyun's Notion portfolio gallery.
 
 ## Files
 
-- `projects/bubli-product.png`: verified Bubli product screen
-- `projects/msmote-demo.png`: verified MSmote PC/mobile demonstration
-- `projects/keeper-field-app.png`: anonymized reconstruction based on the archived 2020 source and UI
+- `profile/`: portfolio profile image
+- `projects/`: product screens and archived project previews used by Notion
+- `videos/`: public demonstration videos
 
-Detailed evidence is stored directly in Notion. Other screenshots remain in their original project repositories.
+Assets are published through GitHub Pages so the portfolio does not depend on
+rate-limited raw repository image URLs. Source code and detailed evidence remain
+linked from each project page.
